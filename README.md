@@ -17,3 +17,8 @@ Welcome to the Flutter Pokemon App! This app is designed using clean architectur
 - **Clean Architecture:** The project follows the clean architecture pattern to maintain separation of concerns and enhance maintainability.
 
 - **BLoC State Management:** Business Logic Component (BLoC) is used for state management, providing a predictable and scalable way to manage the application's state.
+
+## Screenshots
+
+![Screenshot 1](pokedex_flutter/screenshort/mobile_display1.png)
+![Screenshot 2](pokedex_flutter/screenshort/mobile_display2.png)
