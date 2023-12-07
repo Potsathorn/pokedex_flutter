@@ -20,5 +20,5 @@ Welcome to the Flutter Pokemon App! This app is designed using clean architectur
 
 ## Screenshots
 
-![Screenshot 1](pokedex_flutter/screenshort/mobile_display1.png)
-![Screenshot 2](pokedex_flutter/screenshort/mobile_display2.png)
+![Screenshot 1](screenshort/mobile_display1.png)
+![Screenshot 2](screenshort/mobile_display2.png)
